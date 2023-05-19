@@ -1,0 +1,84 @@
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\222410103007.exe.config
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\222410103007.exe
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\222410103007.pdb
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Npgsql.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Buffers.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Collections.Immutable.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Memory.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Numerics.Vectors.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Text.Encodings.Web.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Text.Json.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Threading.Channels.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.ValueTuple.dll
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\Npgsql.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Buffers.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Collections.Immutable.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Memory.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Numerics.Vectors.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Text.Encodings.Web.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Text.Json.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Threading.Channels.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\bin\Debug\System.ValueTuple.xml
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\_222410103007.Form1.resources
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\_222410103007.Properties.Resources.resources
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.csproj.GenerateResource.cache
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.csproj.CopyComplete
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.exe
+D:\KULIAH\Semester 2\PBO\Project\222410103007\222410103007\obj\Debug\222410103007.pdb
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\222410103007.exe.config
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\222410103007.exe
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\222410103007.pdb
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Npgsql.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Text.Json.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Threading.Channels.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\Npgsql.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Text.Json.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Threading.Channels.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\_222410103007.Form1.resources
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\_222410103007.Properties.Resources.resources
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.csproj.CopyComplete
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.exe
+C:\Users\ASUS\Downloads\222410103007\222410103007\222410103007\obj\Debug\222410103007.pdb
